@@ -1,0 +1,1072 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"n_parties"
+			],
+			[
+				"begin",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"b",
+				"bn"
+			],
+			[
+				"ma",
+				"max_val"
+			],
+			[
+				"reu",
+				"result"
+			],
+			[
+				"x",
+				"xor_val"
+			],
+			[
+				"new",
+				"new_left_size"
+			],
+			[
+				"cur",
+				"curr_pos"
+			],
+			[
+				"cu",
+				"curr_pos"
+			],
+			[
+				"str",
+				"str_i"
+			],
+			[
+				"be",
+				"beginend\t$1.begin(), $1.end()"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"trae",
+				"trailing_zeros"
+			],
+			[
+				"tre",
+				"trace"
+			],
+			[
+				"pri",
+				"prime"
+			],
+			[
+				"ve",
+				"vec"
+			],
+			[
+				"com",
+				"activityCompare"
+			],
+			[
+				"print",
+				"printMaxActivities"
+			],
+			[
+				"di",
+				"distance"
+			],
+			[
+				"fi",
+				"first_lift"
+			],
+			[
+				"node",
+				"node_weight"
+			],
+			[
+				"fir",
+				"first"
+			],
+			[
+				"firs",
+				"first"
+			],
+			[
+				"inc",
+				"incomplete_moves"
+			],
+			[
+				"c",
+				"class\tclass-..-(class)"
+			],
+			[
+				"first",
+				"first_lift"
+			],
+			[
+				"dis",
+				"dijkstra"
+			],
+			[
+				"fe",
+				"femaleP"
+			],
+			[
+				"dist",
+				"distance"
+			],
+			[
+				"fin",
+				"find_path"
+			],
+			[
+				"path",
+				"path_index"
+			],
+			[
+				"s",
+				"size"
+			],
+			[
+				"p",
+				"push_back"
+			],
+			[
+				"bond",
+				"bonding_energy_DNA1"
+			],
+			[
+				"G",
+				"GCcount"
+			],
+			[
+				"AT",
+				"ATcount"
+			],
+			[
+				"DNA",
+				"DNA2"
+			],
+			[
+				"EXIT",
+				"EXIT_OK"
+			],
+			[
+				"EXIT_",
+				"EXIT_WITH_HELP"
+			],
+			[
+				"wait",
+				"waitpid"
+			],
+			[
+				"rash",
+				"rash_history"
+			],
+			[
+				"histor",
+				"history_fp"
+			],
+			[
+				"his",
+				"history_fp"
+			],
+			[
+				"hi",
+				"history_fp"
+			],
+			[
+				"ras",
+				"rash_history"
+			],
+			[
+				"my",
+				"my_strlen"
+			],
+			[
+				"help",
+				"help2man"
+			],
+			[
+				"U",
+				"uint64_t"
+			],
+			[
+				"cr",
+				"crc32b"
+			],
+			[
+				"t",
+				"temp"
+			],
+			[
+				"ex",
+				"extractmin"
+			],
+			[
+				"hea",
+				"heapify"
+			],
+			[
+				"h",
+				"hsize"
+			],
+			[
+				"heap",
+				"heapsize"
+			],
+			[
+				"huma",
+				"human"
+			],
+			[
+				"wo",
+				"wolvest"
+			],
+			[
+				"ba",
+				"badMinCost"
+			],
+			[
+				"goo",
+				"goodMinCost"
+			],
+			[
+				"multip",
+				"multiply"
+			],
+			[
+				"M",
+				"MAXN"
+			],
+			[
+				"time",
+				"timein"
+			],
+			[
+				"Fca",
+				"getFacilities"
+			],
+			[
+				"get",
+				"getAvailability"
+			],
+			[
+				"se",
+				"segTree"
+			],
+			[
+				"seg",
+				"segTreeSize"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"upda",
+				"updateValue"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"co",
+				"coin"
+			],
+			[
+				"pb",
+				"PB"
+			],
+			[
+				"v",
+				"visited"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"siz",
+				"sizeof"
+			],
+			[
+				"vi",
+				"visited"
+			],
+			[
+				"find",
+				"findLCA"
+			],
+			[
+				"bl",
+				"blk_sz"
+			],
+			[
+				"blk",
+				"blkidx"
+			],
+			[
+				"fa",
+				"fast_cin"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"fact",
+				"fact2"
+			],
+			[
+				"fac",
+				"fact1"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"fal",
+				"flag"
+			],
+			[
+				"dsf",
+				"dfstimer"
+			],
+			[
+				"add",
+				"addC"
+			],
+			[
+				"pos",
+				"possum"
+			],
+			[
+				"subset",
+				"subsetsize"
+			],
+			[
+				"mi",
+				"mina"
+			],
+			[
+				"pro",
+				"prod2"
+			],
+			[
+				"por",
+				"prod1"
+			],
+			[
+				"prod",
+				"prod1"
+			],
+			[
+				"pord",
+				"prod2"
+			],
+			[
+				"neg",
+				"negsize"
+			],
+			[
+				"msum",
+				"msum1"
+			],
+			[
+				"sub",
+				"subsetsize"
+			],
+			[
+				"subs",
+				"subsetsum"
+			],
+			[
+				"temp",
+				"temparr"
+			],
+			[
+				"ans",
+				"ans2"
+			],
+			[
+				"y1",
+				"y1-y2"
+			],
+			[
+				"lca",
+				"lcanum"
+			],
+			[
+				"vec",
+				"vec1"
+			],
+			[
+				"ran",
+				"rangeQueryUtil"
+			],
+			[
+				"child",
+				"children"
+			],
+			[
+				"chi",
+				"children"
+			],
+			[
+				"chidl",
+				"children"
+			],
+			[
+				"chid",
+				"children"
+			],
+			[
+				"del",
+				"delNodes"
+			],
+			[
+				"f",
+				"finalans"
+			],
+			[
+				"cout",
+				"count"
+			],
+			[
+				"char",
+				"charCount"
+			],
+			[
+				"cou",
+				"counter"
+			],
+			[
+				"tmep",
+				"tempo"
+			],
+			[
+				"st",
+				"start"
+			],
+			[
+				"segTr",
+				"segTree"
+			],
+			[
+				"range",
+				"rangeQuery"
+			],
+			[
+				"ra",
+				"rangeQuery"
+			],
+			[
+				"segT",
+				"segTree"
+			],
+			[
+				"segTree",
+				"getSegTreeSize"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"edge",
+				"EdgeNode"
+			],
+			[
+				"flight",
+				"flightTime"
+			],
+			[
+				"rc",
+				"rc_time2"
+			],
+			[
+				"bei",
+				"begin"
+			],
+			[
+				"push",
+				"push_front"
+			],
+			[
+				"su",
+				"sum1"
+			],
+			[
+				"ya",
+				"yan1"
+			],
+			[
+				"thr",
+				"threshold2"
+			],
+			[
+				"ti",
+				"time"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Competitive Programming/Test C++.sublime-build",
+					""
+				],
+				[
+					"Packages/Competitive Programming/Test C++.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Competitive Programming/Test C++.sublime-build",
+					""
+				],
+				[
+					"Packages/Competitive Programming/Test C++.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/yollo.sublime-build",
+					""
+				],
+				[
+					"Packages/User/yollo.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/yollo.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"ls",
+			"cd Desktop",
+			"os.system('clear')",
+			"import os",
+			"python",
+			"pyothn",
+			"a1"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Manish Mahalwal/Desktop/c++"
+	],
+	"file_history":
+	[
+		"/C/Users/Manish Mahalwal/Desktop/brain-tumor-detection/t1_icbm_normal_1mm_pn3_rf20.mnc",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FAB-Loading/fab-loading/src/main/java/io/saeid/fabloading/LoadingView.java",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FAB-Loading/fab-loading/src/main/java/io/saeid/fabloading/Circle.java",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FAB-Loading/fab-loading/proguard-rules.pro",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FAB-Loading/fab-loading/src/main/AndroidManifest.xml",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/ASS3/app/src/main/java/me/manishmahalwal/android/ass3/DatabaseManager.java",
+		"/C/Users/Manish Mahalwal/Desktop/README.txt",
+		"/C/Users/Manish Mahalwal/Desktop/xSEM5/MC/Assignment 3/Fragments-master/Fragements/app/src/main/AndroidManifest.xml",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/1059A.cpp",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FMS/app/google-services.json",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FMS3/app/src/main/res/values/styles.xml",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FMS3/app/src/main/res/menu/menu.xml",
+		"/C/Users/Manish Mahalwal/AndroidStudioProjects/FMS2/app/src/main/AndroidManifest.xml",
+		"/C/Users/Manish Mahalwal/Desktop/MC Project/probelal/firebase-authentication-tutorial-master/app/src/main/AndroidManifest.xml",
+		"/C/Users/Manish Mahalwal/Desktop/INTERNSHIP PREP/mic.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/xSEM5/DIP/ASSIGNMENT/ASSIGNMENT 2/q3_hist_matching.m",
+		"/C/Users/Manish Mahalwal/Desktop/xSEM5/DIP/ASSIGNMENT/ASSIGNMENT 2/q1.m",
+		"/C/Users/Manish Mahalwal/Desktop/xSEM5/DIP/ASSIGNMENT/ASSIGNMENT 1/IA_ASSIGNMENT_1_1.m",
+		"/C/Users/MANISH~1/AppData/Local/Temp/Rar$DRa0.158/ASSIGNMENT 1/IA_ASSIGNMENT_1_2.m",
+		"/C/Users/MANISH~1/AppData/Local/Temp/Rar$DRa0.323/ASSIGNMENT 1/IA_ASSIGNMENT_1_1.m",
+		"/C/Users/Manish Mahalwal/Desktop/xSEM5/DIP/ASSIGNMENT/ASSIGNMENT 1/IA_ASSIGNMENT_1_2.m",
+		"/C/Users/Manish Mahalwal/.gradle/gradle.properties",
+		"/C/Users/Manish Mahalwal/Desktop/c++/a2oj/4.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/a2oj/7.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/a2oj/8.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codeforces/ER49A.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codeforces/494C.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codeforces/494A.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/INTERNSHIP PREP/adobe.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/a2oj/1.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/a2oj/3.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/COMDIV.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/a2oj/2.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/gfg/0_1_knapsack.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/EASYPROB.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/HOTELS.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/NHAY_A_Needle_in_the_Haystack.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/KMP_string_matching.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/PPATH.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/del.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/TRT_treats_for_cows.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ABCDEF.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ARRAYSUB.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ACODE.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/Solution.cpp.code",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ETF_euler_totient_function.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/binom_coefficient.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/trie implementation new/ETF_euler_totient_function.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/AE00_rectangles.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/PT07Y_check_tree_topology.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/PT07Z_length_of_longest_path_in_a_tree.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/HUBULLU.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codeforces/B.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codeforces/B_new.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/BISHOPS.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/FCTRL2_small_factorials.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/FCTRL2.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/HPYNOS.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/BYTESM2.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/AIBOHP_longest_common_subsequence_variant.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/gfg/detect-loop-in-a-linked-list.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/MAXLN.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/MISERMAN.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/FARIDA.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/next_permutation.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/JNEXT_next_lexicographic_number.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/OLOLO.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/swap_pointers.c",
+		"/C/Users/Manish Mahalwal/Desktop/c++/swap_pointers.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codechef/JUNE18B/NAICHEF.cpp",
+		"/C/Users/Manish Mahalwal/AppData/Local/Temp/Rar$DIa0.345/savez.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/NGM.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/LGIC.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/NGM.py",
+		"/C/Users/Manish Mahalwal/Desktop/c++/gfg/linked-list-set-1-introduction.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/gfg/find-two-non-repeating-elements-in-an-array-of-repeating-elements.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/EDIST_edit_distance.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/LASTDIG_last_digit_of_exponent.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/codeforces/A.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/COINS_bytelandian_gold_coins.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/inp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/PALIN_next_smallest_palindrome.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/TRICOUNT_triangle_count.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/del.c",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/TOANDFRO.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ADDREV.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ONP_reverse_polish.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/NSTEPS.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/ACPC10A.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/SAMERO8F.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/backup/SieveOfEratosthenes (2017_07_20 03_27_39 UTC).cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/dijkstras.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/FCTRL.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/ADA2A.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/manishADALIFT.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/lab3.java",
+		"/C/Users/Manish Mahalwal/Desktop/c++/backup/structsetsort (2017_07_20 03_27_39 UTC).cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/tuple.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/spoj/PRIME1.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/powfunc.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/ADALIFT.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/dijkstrasTest.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/550C-DivisibilityTest.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/932B-RecursiveQueries.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/template.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/ADALAB9.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/backup/sleepsort (2017_07_20 03_27_39 UTC).bash",
+		"/C/Users/Manish Mahalwal/Desktop/c++/backup/gccSortOnObjects (2017_07_20 03_27_39 UTC).cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/tc_0.txt",
+		"/C/Users/MANISH~1/AppData/Local/Temp/Rar$DRa0.309/Cases - Lab 3/tc_0.txt",
+		"/C/Users/Manish Mahalwal/Desktop/c++/in",
+		"/C/Users/Manish Mahalwal/AppData/Local/Temp/Rar$DIa0.686/BplusTreeLong.java",
+		"/C/Users/Manish Mahalwal/AppData/Local/Temp/Rar$DIa0.696/BplusTree.java",
+		"/C/Users/Manish Mahalwal/Desktop/misc/c++-backup/Graphs/bfs.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/misc/c++-backup/Graphs/dfs.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/4BADA.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/maximum_bipartite_matching.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/new2.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/gayle_shapley_geeks.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/temp.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/new.c",
+		"/C/Users/Manish Mahalwal/Desktop/c++/stable_matching.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/7ada.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/test8ADA.py",
+		"/C/Users/Manish Mahalwal/Desktop/c++/5BADA.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/6ADA.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/c++/8ADA.cpp",
+		"/C/Users/Manish Mahalwal/Desktop/ccextractor/hardsubx/bbc.srt"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"title",
+			"imshow",
+			"pause",
+			"color",
+			"addAnimation",
+			"bill",
+			"mat",
+			"and",
+			"\t\t\t\n",
+			"MainActivity",
+			"a",
+			"farey",
+			"count",
+			"();\n",
+			"n",
+			"max_val",
+			"tp",
+			"!=",
+			"count",
+			"me",
+			"n",
+			"Res",
+			"s2",
+			"count",
+			"st",
+			"max",
+			")\n",
+			"node",
+			"Node",
+			"st",
+			"n",
+			"malloc",
+			"root",
+			"ptr",
+			"1e5",
+			"WHYNOT",
+			"int",
+			"len",
+			"trace",
+			");\n",
+			"arr",
+			"white",
+			"black",
+			"compute",
+			"MAXN",
+			"trace",
+			"cin",
+			"cout",
+			"trace",
+			"cout",
+			"MAA",
+			"maa",
+			"cout",
+			"cerr",
+			"cout",
+			"trace",
+			"mid2",
+			"<)",
+			"a",
+			"n",
+			"trace",
+			"ll",
+			"trace",
+			"asn",
+			"eachs2",
+			"ans",
+			"path",
+			"end",
+			"MAXN",
+			"#",
+			"complete_moves",
+			"second_lift",
+			"E[u][i].second.second",
+			"second_lift",
+			"trace",
+			"pr.second.first",
+			"pr.second.second",
+			"curr_time",
+			"];\n",
+			"int",
+			"long",
+			"N",
+			"n",
+			"buffers",
+			"ITreeIndex",
+			"dp",
+			"%mod",
+			"cabbie",
+			"female_allocation",
+			"male_allocation",
+			"male_position",
+			"male_allocation",
+			"curr",
+			"currmale",
+			"currentlyengagedto",
+			"femaletopropose",
+			"array",
+			"male_proposed_index",
+			"t",
+			"isHigherPref",
+			"female_pref_list",
+			"male_pref_list",
+			"MAXN",
+			"MAX_N",
+			"vis",
+			"s",
+			"res",
+			"lk",
+			"lkj",
+			"INF",
+			"P",
+			"G",
+			"c",
+			"x",
+			"a",
+			"time",
+			"~",
+			"excluding_trypr",
+			"858701103",
+			"8587011031",
+			"958207",
+			"papa",
+			"graph",
+			"mat",
+			"cost",
+			"minCost",
+			"endl",
+			"c"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 26.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 24.0
+	},
+	"pinned_build_system": "",
+	"project": "CN.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Manish Mahalwal\\Desktop\\Sem 4\\IQB\\ASSIGNMENTS\\iqb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"DrawPoly"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
