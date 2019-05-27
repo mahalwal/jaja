@@ -1,3 +1,5 @@
+#These commands are used to regain the unallocated memory/partition you get when you wrongfully format an SD Card
+
 Diskpart
 
 List disk
