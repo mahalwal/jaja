@@ -1,0 +1,17 @@
+Diskpart
+
+List disk
+
+Select disk m, where m is the SD card number.
+
+Select partition 1
+
+Delete partition
+
+Partition
+
+Clean
+
+Create partition primary
+
+Format
