@@ -1,0 +1,1 @@
+netsh wlan show profile Airtel-E5573-2459 key=clear
