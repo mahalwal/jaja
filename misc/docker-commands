@@ -1,0 +1,28 @@
+//File contains instructions to pull repos,install docker, run, commit, copying files for docker
+
+
+
+Note: all commands with sudo
+
+
+//install docker
+apt-get install docker.io
+apt-get install python3-pip
+
+
+//pulling, creating process, running proc
+docker pull manishmahalwal/2016054_manish_mahalwal_a2:manish
+docker run -itd --name=manish manishmahalwal/2016054_manish_mahalwal_a2:manish
+docker exec -it manish /bin/bash
+
+//committing and uploading files to hub.docker.com
+docker commit manish manishmahalwal/2016054_manish_mahalwal_a2
+docker tag <`docker images` image_id> manishmahalwal/2016054_manish_mahalwal_a2:manish
+docker push manishmahalwal/2016054_manish_mahalwal_a2:manish
+
+//copying from host to docker
+docker cp <file_name> <`docker ps` container_id>:/</des/file_name>
+
+//login/logout
+docker login
+docker logout
