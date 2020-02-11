@@ -1,2 +1,0 @@
-$mount windows partition
-sudo mount -t ntfs-3g -o ro /dev/sda3 /media/windows
