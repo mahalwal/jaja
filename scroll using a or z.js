@@ -1,5 +1,5 @@
 /* 
-Scroll using the a/z key after deleting the overlaying elements of a soft paywall
+Scroll using the a/z key after deleting the overlaying elements of a soft paywall. Applicable on websites where scrolling is disabled
 */
 
 
